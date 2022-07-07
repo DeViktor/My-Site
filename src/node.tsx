@@ -7,6 +7,8 @@ function Node() {
       version="1.1"
       viewBox="0 0 504 504"
       xmlSpace="preserve"
+      width="30"
+      height="30"
     >
       <path
         fill="#00960f"

@@ -4,8 +4,8 @@ function Typescript() {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="256"
-      height="256"
+      width="30"
+      height="30"
       preserveAspectRatio="xMidYMid"
       viewBox="0 0 256 256"
     >

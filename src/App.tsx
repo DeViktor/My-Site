@@ -5,8 +5,10 @@ import Javascript from './javascript'
 import Max from './max'
 
 import Minimal from './minimal'
-import WriteTR from './ter'
+import Node from './node'
+import Php from './php'
 import Bash from './terminal'
+import Typescript from './typescript'
 
 function App() {
 
@@ -34,8 +36,8 @@ function App() {
             <div className='text-green-400'>
             <p className=''>Hello, My name is João Victor, I'm 22 years old, I've studied Software Development since 2016</p>
             <p>I've been through languages such as:</p>
-            <div className='flex'>
-            <Java/> <Javascript/>
+            <div className='flex gap-1'>
+            <Java/> <Javascript/> <Typescript/> <Node/> <Php/>
             </div>
             </div>
             </div>

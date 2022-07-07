@@ -9,7 +9,7 @@ module.exports = {
       keyframes:{
         writed:{
           from: { width: '0'},
-          to:{width: '100%'}
+          to:{width: '97%'}
         }
       },
       animation:{
