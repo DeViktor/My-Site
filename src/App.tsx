@@ -33,13 +33,23 @@ function App() {
           <div className='pt-2 pl-1'>
             <div className='animate-write whitespace-nowrap overflow-hidden'>
             <h1 className='text-green-600'> <span className='animate-ping'> >_ </span> ~~ @DeViktor</h1>
-            <div className='text-green-400'>
-            <p className=''>Hello, My name is João Victor, I'm 22 years old, I've studied Software Development since 2016</p>
-            <p>I've been through languages such as:</p>
-            <div className='flex gap-1'>
-            <Java/> <Javascript/> <Typescript/> <Node/> <Php/>
-            </div>
-            </div>
+              <div className='text-green-400'>
+                <p className=''>Hello, My name is João Victor, I'm 22 years old, I've studied Software Development since 2016</p>
+                <p>I've been through languages such as:</p>
+                  <div className='flex gap-1'>
+                  <Java/> <Javascript/> <Typescript/> <Node/> <Php/>
+                  </div>
+                  <div className='pt-4 pl-2'>
+                    <div className='pl-2 border w-[30%] border-dashed border-2 border-green-600'>
+                      <a href=""className='font-bold'>Connect With Metamask</a>
+                      <div className='italic'>             
+                        <p>in this little script I use the web page to go through </p> 
+                        <p>the browser behind some etherium remnant </p>
+                        <p> used by MetaMask Wallet</p>
+                      </div>
+                    </div>
+                  </div>
+              </div>
             </div>
           </div>
         </div>
